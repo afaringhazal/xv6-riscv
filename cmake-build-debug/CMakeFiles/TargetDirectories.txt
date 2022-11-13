@@ -1,0 +1,3 @@
+/home/gazelle/Desktop/finalProject/xv6/xv6-riscv/cmake-build-debug/CMakeFiles/xv6_riscv.dir
+/home/gazelle/Desktop/finalProject/xv6/xv6-riscv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gazelle/Desktop/finalProject/xv6/xv6-riscv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
