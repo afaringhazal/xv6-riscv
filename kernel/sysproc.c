@@ -95,3 +95,8 @@ sys_hello(void) {
     printf("Hello world\n");
     return 12;
 }
+uint64
+sys_freeMemory(void ){
+    printf("find free memory");
+    return kfreemem();
+}

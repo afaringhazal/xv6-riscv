@@ -82,4 +82,4 @@ add_executable(xv6_riscv
         user/zombie.c
         LICENSE
         Makefile
-        README)
+        README user/freeMemory.c)
