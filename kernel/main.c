@@ -17,6 +17,7 @@ main()
     printf("xv6 kernel is booting\n");
     printf("\n");
     kinit();         // physical page allocator
+    printf("xv6 free pages: %d\n", kfreemem()); //When running xv6, we display a report of free memory
     kvminit();       // create kernel page table
     kvminithart();   // turn on paging
     procinit();      // process table
