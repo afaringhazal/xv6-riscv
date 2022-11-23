@@ -7,6 +7,6 @@
 int
 main(void)
 {
-    printf("xv6 free pages: %d\n", freememory());
+    printf("xv6 free pages: %d\n", pages());
     exit(0);
 }

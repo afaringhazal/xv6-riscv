@@ -96,7 +96,7 @@ sys_hello(void) {
     return 12;
 }
 uint64
-sys_freememory(void ){
+sys_pages(void ){
     printf("find free memory");
     return kfreemem();
 }
